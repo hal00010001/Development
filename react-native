@@ -1,0 +1,3 @@
+create-react-native-app food        // Criar o projeto food
+npx expo-cli init food              // Criar o projeto food
+expo star ou npm start              // Iniciar o projeto depois de entrar em sua pasta

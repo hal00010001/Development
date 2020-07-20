@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;osworks-api/src/main/resources/db/migration/cria-tabela-cliente-sem-v.sql&apos; to &apos;V003_cria-tabela-cliente-sem-v.sql&apos;" description="Rename resource &apos;cria-tabela-cliente-sem-v.sql&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/db/migration/cria-tabela-cliente-sem-v.sql" name="V003_cria-tabela-cliente-sem-v.sql" stamp="1592785251767" updateReferences="true"/>
+</session>

@@ -1,0 +1,7 @@
+echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+
+// Comando para aumentar o número de watchers no Linux evitando erros no expo-cli
+
+cat /proc/sys/fs/inotify/max_user_watches
+
+// Comando para verificar se o número de watchers foi aumentado
